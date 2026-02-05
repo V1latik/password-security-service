@@ -17,9 +17,6 @@ pip install -r requirements.txt
 
 bash
 python main.py
-# или
-python3 main.py
-
 
 📋 Использование
 Как пользоваться сервисом:
