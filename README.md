@@ -34,3 +34,8 @@ cd password-security-service
 Проверку на распространенность
 
 Рекомендации по улучшению
+
+Установите зависимости:
+
+bash
+pip install -r requirements.txt
